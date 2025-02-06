@@ -59,5 +59,5 @@ Here's an overview of some common uses of the `ip` command:
 - `ip netns add <namespace_name>`: create a network namespace
 - `ip netns exec <namespace_name> <command>`: run a command within a specific network namespace
 - `ip netns list`: list available network namespaces
-<br/>
+
 The `ip` command offers a comprehensive set of features for managing various aspects of networking in Linux. It is a versatile tool that can be used for both basic and advanced networking tasks, making it essential for network administrators and Linux users. You can access detailed help and usage information for the `ip` command by running `ip --help` or `man ip` in your terminal.
