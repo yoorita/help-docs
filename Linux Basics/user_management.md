@@ -57,6 +57,12 @@ Add a group
 groupadd devops
 ```
 
+Change group for file
+
+```
+chgrp devops file.s
+```
+
 Add user and change the group
 
 ```
